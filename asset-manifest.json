@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firebase-crud-auth/static/css/main.b43ec254.css",
+    "main.js": "/firebase-crud-auth/static/js/main.437d4fce.js",
+    "static/media/bootstrap-icons.woff?": "/firebase-crud-auth/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/firebase-crud-auth/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/services.png": "/firebase-crud-auth/static/media/services.09820521805b6a468936.png",
+    "index.html": "/firebase-crud-auth/index.html",
+    "main.b43ec254.css.map": "/firebase-crud-auth/static/css/main.b43ec254.css.map",
+    "main.437d4fce.js.map": "/firebase-crud-auth/static/js/main.437d4fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b43ec254.css",
+    "static/js/main.437d4fce.js"
+  ]
+}
